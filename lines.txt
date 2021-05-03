@@ -1,3 +1,2 @@
-Rust
-💖
-Fun
+"https://doc.rust-lang.org/std/fs/struct.OpenOptions.html#method.append"
+"https://rust-lang-nursery.github.io/rust-cookbook/file/read-write.html#avoid-writing-and-reading-from-a-same-file"
